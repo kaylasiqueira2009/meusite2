@@ -21,8 +21,7 @@ img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(253, 0, 0);
-}
+    border: 5px solid red
 
 .center{
     text-align: center;
